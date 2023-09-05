@@ -1,4 +1,4 @@
-[![Discord Server](https://discord.gg/theolympus69)
+
 
 ## Categories 📑
 - [x] Fun
@@ -33,7 +33,7 @@ A [node.js](https://nodejs.org) >= 16.12.0 setup with [pnpm](https://pnpm.io) is
 $ pnpm install
 ```
 
-### 🔑Rename .env.example as .env and fill out all the required secrets
+### 🔑Rename `.env.example` as `.env` and fill out all the required secrets
 
 ```bash
 $ pnpm run setup-env
