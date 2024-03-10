@@ -56,5 +56,5 @@ $ pnpm start
 
 ## 📄 License
 
-[Olympus](#) is Licensed under [MIT License](./LICENSE).
+[Multipurpose-Bot](#) is Licensed under [MIT License](./LICENSE).
 
